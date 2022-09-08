@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [seata-js](https://github.com/seata/seata-js)
+- 👯 I’m looking to collaborate on [dubbo-js](https://github.com/apache/dubbo-js)
+- 📫 How to reach me: fengmi99@gmail.com
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hufeng&count_private=true&show_icons=true" alt="hufeng's GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hufeng&count_private=true&show_icons=true&theme=radical" alt="hufeng's GitHub stats" />
+  </a>
+</div>
