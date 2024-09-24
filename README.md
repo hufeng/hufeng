@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [seata-js](https://github.com/seata/seata-js)
-- 👯 I’m looking to collaborate on [dubbo-js](https://github.com/apache/dubbo-js)
+- 🔭 I’m currently working learning LLM and AI.
 - 📫 How to reach me: fengmi99@gmail.com
 
 <div>
